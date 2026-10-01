@@ -24,6 +24,10 @@ python3 scan2.py
 
 [![Telegram](https://img.shields.io/badge/Telegram-@colipopi-blue)](https://t.me/colipopi)
 
+## Video
+
+[![Video](https://img.shields.io/badge/Watch-Video-red)](VIDEO_LINK_HERE)
+
 ## License
 
 Protected — Contact for access.
