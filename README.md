@@ -1,6 +1,6 @@
 # WEBHACK v4.0.1
 
-Pentest Toolkit — Encrypted & Private
+Pentest Toolkit
 
 ## Tools
 
@@ -13,12 +13,6 @@ Pentest Toolkit — Encrypted & Private
 python3 xweb.py
 python3 scan2.py
 ```
-
-## Status
-
-- 🔒 Encrypted
-- 🔑 Password protected
-- 🛡️ Private
 
 ## License
 
