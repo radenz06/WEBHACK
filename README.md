@@ -1,11 +1,17 @@
-# WEBHACK v4.0.1
+<p align="center">
+  <h1>WEBHACK v4.0.1</h1>
+  <img src="https://img.shields.io/badge/Status-Active-green" alt="Status">
+  <img src="https://img.shields.io/badge/Version-4.0.1-blue" alt="Version">
+</p>
 
 Pentest Toolkit
 
 ## Tools
 
-- **xweb.py** — Web Scanner
-- **scan2.py** — OSINT Scanner
+| Tool | Description |
+|------|-------------|
+| `xweb.py` | Web Scanner |
+| `scan2.py` | OSINT Scanner |
 
 ## Usage
 
