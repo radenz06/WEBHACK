@@ -11,7 +11,7 @@ Pentest Toolkit
 | Tool | Description |
 |------|-------------|
 | `xweb.py` | Web Scanner |
-| `scan2.py` | OSINT Scanner |
+| `scan2.py` | Dorking Scanner |
 
 ## Usage
 
