@@ -1,13 +1,11 @@
 # WEBHACK v4.0.1
 
-> Pentest Toolkit — Encrypted & Private
+Pentest Toolkit — Encrypted & Private
 
 ## Tools
 
-| Tool | Description |
-|------|-------------|
-| `xweb.py` | Web Scanner |
-| `scan2.py` | OSINT Scanner |
+- **xweb.py** — Web Scanner
+- **scan2.py** — OSINT Scanner
 
 ## Usage
 
