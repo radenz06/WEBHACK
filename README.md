@@ -20,6 +20,10 @@ python3 xweb.py
 python3 scan2.py
 ```
 
+## Contact
+
+[![Telegram](https://img.shields.io/badge/Telegram-@colipopi-blue)](https://t.me/colipopi)
+
 ## License
 
 Protected — Contact for access.
