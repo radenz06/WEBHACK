@@ -1,6 +1,6 @@
 <p align="center">
-  <h1>donatur</h1>
-  <img src="https://files.catbox.moe/feuuy3.jpeg" alt="dana">
+  <h1>WEBHACK v4.0.1</h1>
+  <img src="https://img.shields.io/badge/Status-Active-green" alt="Status">
   <img src="https://img.shields.io/badge/Version-4.0.1-blue" alt="Version">
 </p>
 
